@@ -3,7 +3,7 @@
         "cmath": "c"
     },
     "cmake.preferredGenerators": [
-        "Visual Studio 15 2017",
+        "Visual Studio 15 2017 Win64",
         "Ninja",
         "Unix Makefiles"
       ]

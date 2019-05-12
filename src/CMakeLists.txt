@@ -11,3 +11,10 @@ add_executable(GL_exe ${sources})
 if(libraries)
     target_link_libraries(GL_exe ${libraries})
 endif()
+
+install( TARGETS GL_exe
+    RUNTIME DESTINATION bin
+    LIBRARY DESTINATION lib
+    ARCHIVE DESTINATION lib/static
+)
+
