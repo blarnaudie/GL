@@ -37,10 +37,10 @@ Pas d'explications, il faut pratiquer !
 
 Vous devez installer les logiciels qui vous seront utiles pour travailler à
 la maison. Dans l'ordre, installer :
-* [Git] (https://www.git-scm.com/download)
-* [Visual Studio Code] (https://code.visualstudio.com/download)
-* [CMake] (https://cmake.org/download/)
-* [MinGW] (https://mingw-w64.org/doku.php/download)
+* [Git](https://www.git-scm.com/download)
+* [Visual Studio Code](https://code.visualstudio.com/download)
+* [CMake](https://cmake.org/download/)
+* [MinGW](https://mingw-w64.org/doku.php/download)
 
 Ensuite, installer les extensions sur Visual Studio Code
 * Pour cela, cloner juste votre repo sous Visual Studio Code
