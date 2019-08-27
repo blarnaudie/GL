@@ -9,7 +9,7 @@ Repo pour les cours de GL à l'IUT de Cachan
 
 ## Règles à respecter
 
-* Avant de démarrer un __projet CVI__, vous devez avoir un __clone local__ de votre
+* Avant de démarrer un __projet C__, vous devez avoir un __clone local__ de votre
 repo.
 * Chaque fichier `.h` créé doit être placé dans le dossier `include`.
 * Chaque fichier `.c` créé doit être placé dans le dossier `src`.
