@@ -11,9 +11,8 @@ Repo pour les cours de GL à l'IUT de Cachan
 
 * Avant de démarrer un __projet CVI__, vous devez avoir un __clone local__ de votre
 repo.
-* Le projet CVI (fichier `.prj`) doit être sauvegardé dans le __repo local__.
-* Chaque fichier `.h` (ou `.hpp`) créé doit être placé dans le dossier `include`.
-* Chaque fichier `.c`(ou `.cpp`) créé doit être placé dans le dossier `src`.
+* Chaque fichier `.h` créé doit être placé dans le dossier `include`.
+* Chaque fichier `.c` créé doit être placé dans le dossier `src`.
 
 ## Par où commencer
 
