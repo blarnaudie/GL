@@ -40,7 +40,12 @@ la maison. Dans l'ordre, installer :
 * [Git](https://www.git-scm.com/download)
 * [Visual Studio Code](https://code.visualstudio.com/download)
 * [CMake](https://cmake.org/download/)
-* [MinGW](https://mingw-w64.org/doku.php/download)
+* [MinGW](https://sourceforge.net/projects/mingw/)<br />
+    * Attention : veuillez suivre les captures d'écran ci-dessous pour
+    installer proprement MinGW
+<br /><br /><img src="mingw_install_1.jpg" width=700 align=center>
+<br /><br /><img src="mingw_install_2.jpg" width=700 align=center>
+<br /><br /><img src="mingw_install_3.jpg" width=400 align=center>
 
 Ensuite, installer les extensions sur Visual Studio Code
 * Pour cela, cloner juste votre repo sous Visual Studio Code
