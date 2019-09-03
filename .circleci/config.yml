@@ -14,10 +14,10 @@ jobs:
           name: Génération du dossier de build et creation du projet cmake
           command: mkdir build && cd build && cmake ../ -G Ninja
       - run:
-          name: Compilation du code c++
+          name: Compilation du code c/c++
           command: cd build && ninja
       - run:
-          name: Inspection du code c++
+          name: Inspection du code c/c++
           command: >
             mkdir inspect_dir &&
             cp
