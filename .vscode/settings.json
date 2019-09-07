@@ -4,7 +4,6 @@
     ],
     "cmake.preferredGenerators": [
         "MinGW Makefiles",
-        "Ninja",
-        "Unix Makefiles"
+        "Visual Studio 15 2017"
       ]
 }
