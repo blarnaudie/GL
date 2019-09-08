@@ -1,10 +1,9 @@
 {
-    "files.associations": {
-        "cmath": "c"
-    },
+    "cmake.mingwSearchDirs":[
+        "C:\\MinGW"
+    ],
     "cmake.preferredGenerators": [
-        "Visual Studio 15 2017",
-        "Ninja",
-        "Unix Makefiles"
+        "MinGW Makefiles",
+        "Visual Studio 15 2017"
       ]
 }
